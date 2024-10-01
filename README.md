@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sentiment Analysis and Emotion Detection from Text
 
 ## Abstract

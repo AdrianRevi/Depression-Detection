@@ -39,9 +39,11 @@ To get started with the project, follow these steps:
    git clone https://github.com/AdrianRevi/Depression-Detection.git
    
 2. Navigate to the project directory:
+   ```bash
    cd Depression-Detection
 
 3. Open the jupyter notebook:
+   ```bash
    jupyter notebook Depression_Detection.ipynb
 
 ## Conclusion
